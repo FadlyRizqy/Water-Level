@@ -12,7 +12,7 @@
 int condition;
 
 /****** WiFi Connection Details *******/
-const char* ssid = "@upi.edu";
+const char* ssid = "@UPI.EDU";
 const char* password = "";
 
 /******* MQTT Broker Connection Details *******/
